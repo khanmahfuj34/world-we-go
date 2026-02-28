@@ -3,4 +3,9 @@
     margin: 20px;
     padding: 20px;
     border-radius: 20px;
+    text-align: left;
+}
+
+.country-visited {
+    background-color: blue;
 }
